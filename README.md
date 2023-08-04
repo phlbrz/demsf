@@ -67,7 +67,7 @@ It accepts the same 3 parameters, `OUTPUT_FOLDER`, `OUTPUT_FILENAME` and `URL`. 
 
 ```bash
 OUTPUT_FOLDER="/home/user/workspace/demsf_output/"
-OUPUT_FILENAME="file-name.extension-you-want"
+OUPUT_FILENAME="file-name.zip"
 URL="https://some-shared-repo.sharepoint.com/:u:/s/SharedRepo/XXXxXXxXxXxXxxXxXxxxxxxXXx1xxxx2X3X4XxxxXXxXXX?e=XXxxX1"
 
 chmod +x ./examples/extract-zip.sh
