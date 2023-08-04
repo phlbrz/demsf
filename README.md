@@ -11,15 +11,15 @@ The current implementation utilizes Wget for downloading and Unzip for extractio
 tree demsf/
 
 demsf/
-??? examples
-?�� ??? call-download.sh # Example how to use download-sharepoint-file.sh in your bash script.
-?�� ??? extract-zip.sh # Example how to use extract-zip.sh in your bash script.
-??? lib
-?�� ??? download-sharepoint-file.sh # Download a Microsoft Sharepoint File.
-?�� ??? logging.sh # Logging utility.
-?�� ??? unzip.sh # Unzip a file downloaded from Microsoft Sharepoint.
-??? LICENSE
-??? README.md
+├── examples
+│   ├── call-download.sh # Example how to use download-sharepoint-file.sh in your bash script.
+│   └── extract-zip.sh # Example how to use extract-zip.sh in your bash script.
+├── lib
+│   ├── download-sharepoint-file.sh # Download a Microsoft Sharepoint File.
+│   ├── logging.sh # Logging utility.
+│   └── unzip.sh # Unzip a file downloaded from Microsoft Sharepoint.
+├── LICENSE
+└── README.md
 ```
 
 ## Requirements
